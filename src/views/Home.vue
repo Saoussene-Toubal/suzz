@@ -13,7 +13,7 @@
                 J&rsquo;ai {{age}} ans et je suis un web déveloper basé a  Boumerdes, Algéria,<br> specialisé en Web development cureuse et plain d'energie en train de fouller dans le domaine de l'intiligence artificielle! <br> Et je suis ouverte a toutes propositions .
             </div>
             <button class="text-primary-main rounded-sm text-lg p-4 border-2 hover:bg-transparent-primary my-4" 
-                onclick="location.href='mailto:gilbert.ndresaj@gmail.com'">
+                onclick="location.href='mailto:toubalsaoussene@gmail.com'">
                 Touche ici !
             </button>
             <a href="resume.pdf" download>
