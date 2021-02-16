@@ -3,7 +3,7 @@
         <h1 class="font-bold text-primary-main sm:text-5xl text-4xl ">Projects</h1>
         <br/>
         <h3 class="text-label-info text-xl">
-            ➔ une liste des projets que j'ai mener , j'aime decouvrire les nouvelles technologies et framworks.
+            ➔ Un peu de projets que j'ai réalisée
         </h3>
         <div class="projects my-8">
             <project
