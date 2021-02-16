@@ -5,7 +5,7 @@
         <div class="my-8">
             <h1 class="text-secondary-main font-bold sm:text-5xl text-3xl "> Touche ici ! </h1>
             <span class="text-label-info text-xl my-8">
-               Hey je cherche un travail en freelance ou contrat je suis ouverte en toute proposition !,je reponderez a tous les emails!
+               Hey ! je cherche un travail en freelance ou contrat je suis ouvérte a toutes propositions !,je repond a tous vous emails!
             </span><br>
             <button class=" my-8 rounded-sm text-lg p-4 border-2 text-primary-light hover:text-primary-main hover:bg-transparent-primary " 
                 onclick="location.href='mailto:Toubalsaoussene@gmail.com'">
