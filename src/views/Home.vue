@@ -10,7 +10,7 @@
         <scene></scene>
         <div class="w-full my-2">
             <div class="text-label-info text-xl">
-                Hello ! C'est Saoussene et J&rsquo;ai {{age}} ans et je suis une web développeuse basé à Boumerdes, Algéria, </br> spécialisé en Web développement curieuse et pleine d'énergie en train de fouiller dans le domaine de l'indiligence artificielle! </br> Et je suis ouverte à toute proposition .
+                Hello ! C'est Saoussene et J&rsquo;ai {{age}} ans et je suis une web développeuse basé à Boumerdes, Algéria, <br> spécialisé en Web développement curieuse et pleine d'énergie en train de fouiller dans le domaine de l'indiligence artificielle! <br> Et je suis ouverte à toute proposition .
             </div>
             <button class="text-primary-main rounded-sm text-lg p-4 border-2 hover:bg-transparent-primary my-4" 
                 onclick="location.href='mailto:toubalsaoussene@gmail.com'">
