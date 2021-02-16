@@ -1,6 +1,6 @@
 <template>
  <div class="flex-col justify-center">
-    <h1 class="font-bold text-primary-main md:text-5xl text-4xl ">About Me</h1>
+    <h1 class="font-bold text-primary-main md:text-5xl text-4xl ">A propos de moi</h1>
    
     <div class="my-8 md:flex bg-background-light rounded-lg p-8">
         <img class="h-24 w-24 md:h-24 md:w-24 rounded-full mx-auto md:mx-0 sm:my-4 md:my-0 md:mr-6" src="../assets/img/profile.png">
@@ -34,13 +34,13 @@
             </div> 
         </div>
         <div class="shadow-lg rounded-sm bg-background-light p-6 my-4">
-            <span class="text-label-subtitle font-bold text-lg my-2">Tools</span><br>
+            <span class="text-label-subtitle font-bold text-lg my-2">Outils</span><br>
             <span v-for="item in technologies.tools" v-bind:key="item.name" class="m-1 text-label-subtitle"> ➔ <span class="text-label-info">{{item.name}}</span></span>
         </div>
     </div>
     
     <div class="w-full my-8">
-        <span class="text-secondary-main font-bold text-lg my-2">➔ Experience </span>
+        <span class="text-secondary-main font-bold text-lg my-2">➔ Expériences </span>
         <timeline></timeline>
     </div>
 </div>
