@@ -19,7 +19,7 @@ export default new Vuex.Store({
             { name: "HTML & (S)CSS", level: 92 },
             { name: "Javascript (ES6)", level: 80 },
             { name: "PHP", level: 80 },
-            { name: "PHP", level: 40 }
+            { name: "PYTHON", level: 40 }
         ],
         frameworks: [
             { name: "Vue.js", level: 65 },
@@ -182,7 +182,7 @@ export default new Vuex.Store({
             ]
         },
         { 
-            name: "CERTIFICATION PYTHON OF EVRYBODY",
+            name: "CERTIFICATION PYTHON OF EVERYBODY",
             description: "UNIVERSITE OF MICHIGAN IN COURSERA EN LIGN",
             role: "",
             type: "",
