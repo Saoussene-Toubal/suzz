@@ -1,4 +1,4 @@
-# :sunglasses:  gilnd | portfolio
+# :sunglasses:  Suzana| portfolio
 
 > This is my personal portfolio Made with vue.js
 
